@@ -1,0 +1,40 @@
+body{
+    background-color: #061522;
+}
+p{
+    font-family: grenadine-mvb, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+a{
+    font-family: grenadine-mvb, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(134, 204, 255);
+    text-decoration: none;
+    transition: all 0.5s;
+}
+a:hover{
+    color: rgb(109, 167, 208);
+    transition: all 0.5s;
+}
+h1,
+h2,
+h3,
+b{
+    font-family: grenadine-mvb, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+}
+footer{
+    font-family: grenadine-mvb, sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 0.8rem;
+    color: white;
+}
+html{
+    scroll-behavior: smooth;
+}
