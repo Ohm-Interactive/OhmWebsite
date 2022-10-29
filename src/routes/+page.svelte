@@ -18,41 +18,64 @@
         <section id="About">
             <h2 in:fade>About us</h2>
             <p in:fade>We are just a small group that make cool projects</p>
-            <p in:fade>There are currently only 2 people in Ohm Interactive. They are</p>
+            <p in:fade>There are currently only 7 people in Ohm Interactive. They are:</p>
             <div in:fade class="Names">
                 <div>
                     <h2 style="padding-left: 20px;">Twingamerdudes</h2>
+                    <p style="padding-left: 20px;">Contact: twingamerdudes#1389 (Discord)</p>
                     <br>
                     <img src="Twingamerdudes.jpg" alt="Twingamerdude's logo">
                 </div>
                 <div>
                     <h2 style="padding-left: 20px;">Omega</h2>
+                    <p style="padding-left: 20px;">Contact: OmegaaDev#2871 (Discord)</p>
                     <br>
                     <img src="Omega.jpg" alt="Omega's logo">
                 </div>
                 <div>
                     <h2 style="padding-left: 20px;">Inovade</h2>
+                    <p style="padding-left: 20px;">Contact: inovade#4388 (Discord)</p>
                     <br>
                     <img src="Inovade.png" alt="Inovade's logo" class="LargeImage">
                 </div>
                 <div> 
                     <h2 style="padding-left: 20px;">"Big Poop"</h2>
+                    <p style="padding-left: 20px;">Contact: Big poop#5376 (Discord)</p>
                     <br>
                     <img src="BigPoop.png" alt='"Big Poops" logo' class="LargeImage">
                 </div>
                 <div> 
-                    <h2 style="padding-left: 20px;">Tob</h2>3e-
+                    <h2 style="padding-left: 20px;">Tob</h2>
+                    <p style="padding-left: 20px;">Contact: Tob#1798 (Discord)</p>
                     <br>
                     <img src="Tob.png" alt="Tob's logo" class="LargeImage">
                 </div>
+                <div> 
+                    <h2 style="padding-left: 20px;">Crow</h2>
+                    <p style="padding-left: 20px;">Contact: crow#0173 (Discord)</p>
+                    <br>
+                    <img src="Crow.png" alt="Crow's logo" class="LargeImage">
+                </div>
+                <div> 
+                    <h2 style="padding-left: 20px;">Kyojiwa</h2>
+                    <p style="padding-left: 20px;">Contact: Kyojiwa#1710 (Discord)</p>
+                    <br>
+                    <img src="Kyojiwa.png" alt="Kyojiwa's logo" class="LargeImage">
+                </div>
             </div>
         </section>
+        <br>
         <section id="Games">
             <div in:fade class="Main">
                 <h2>Games</h2>
                 <p>None at the moment :(</p>
                 <p>Were working on it.</p>
             </div>
+        </section>
+        <br>
+        <section id="Contact">
+            <h2>Contact</h2>
+            <p>Email: ohminteractiveofficial@gmail.com</p>
         </section>
     {/if}
 </div>

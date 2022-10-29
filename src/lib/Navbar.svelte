@@ -4,6 +4,7 @@
         <a href="#Home">Home</a>
         <a href="#About">About us</a>
         <a href="#Games">Games</a>
+        <a href="#Contact">Contact</a>
     </div>
 </nav>
 <style>
