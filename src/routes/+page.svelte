@@ -18,7 +18,7 @@
         <section id="About">
             <h2 in:fade>About us</h2>
             <p in:fade>We are just a small group that make cool projects</p>
-            <p in:fade>There are currently only 7 people in Ohm Interactive. They are:</p>
+            <p in:fade>There are currently only 8 people in Ohm Interactive. They are:</p>
             <div in:fade class="Names">
                 <div>
                     <h2 style="padding-left: 20px;">Twingamerdudes</h2>
@@ -63,6 +63,12 @@
                     <img src="Kyojiwa.png" alt="Kyojiwa's logo" class="LargeImage">
                 </div>
             </div>
+            <div> 
+                <h2 style="padding-left: 20px;">TheElkmenArrive</h2>
+                <p style="padding-left: 20px;">Contact: TheElkmenArrive#6402 (Discord)</p>
+                <br>
+                <img src="TheElkmenArrive.png" alt="Kyojiwa's logo" class="LargeImage">
+            </div>
         </section>
         <br>
         <section id="Games">
@@ -90,7 +96,7 @@
         text-align: center;
         flex-direction: column;
     }
-    @media only screen and (max-width: 1000px){
+    @media only screen and (max-width: 1500px){
         .Names{
             flex-direction:column;
         }
