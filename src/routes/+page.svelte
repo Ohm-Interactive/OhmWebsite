@@ -39,10 +39,10 @@
                     <img src="Inovade.png" alt="Inovade's logo" class="LargeImage">
                 </div>
                 <div> 
-                    <h2 style="padding-left: 20px;">"Big Poop"</h2>
+                    <h2 style="padding-left: 20px;">Nightmare</h2>
                     <p style="padding-left: 20px;">Contact: Big poop#5376 (Discord)</p>
                     <br>
-                    <img src="BigPoop.png" alt='"Big Poops" logo' class="LargeImage">
+                    <img src="BigPoop.png" alt="Nightmares's logo" class="LargeImage">
                 </div>
                 <div> 
                     <h2 style="padding-left: 20px;">Tob</h2>
